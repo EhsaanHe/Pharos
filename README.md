@@ -23,7 +23,7 @@ A comprehensive automation bot for interacting with the Pharos Network testnet, 
 
 ## 🛠️ Installation
 
-1.  the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/sinak1023/pharos-multi-bot.git
 cd pharos-multi-bot
