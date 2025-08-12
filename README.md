@@ -4,7 +4,7 @@ A comprehensive automation bot for interacting with the Pharos Network testnet, 
 
 ## 🚀 Features
 
-- **Daily Sign-In**: Automatically sign in to collect daily rewards
+- **Daily Sign-In**: Automatically sign in to collect daily reward
 - **Faucet Claims**: Claim testnet tokens from the faucet
 - **Token Transfers**: Send PHRS tokens to multiple addresses
 - **Token Wrapping**: Convert between PHRS and WPHRS (Wrapped PHRS)
