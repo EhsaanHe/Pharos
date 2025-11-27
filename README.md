@@ -1,4 +1,4 @@
-# Pharos Network Testnet B
+# Pharos Network Testnet Bo
 
 A comprehensive automation bot for interacting with the Pharos Network testnet, built with Node.js and Web3.js. This bot provides various features including daily sign-ins, faucet claims, token swaps, liquidity provision, and more.
 
